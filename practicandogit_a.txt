@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TRJ3811
+=======
+TRJ3811
+>>>>>>> be2d7c6 (Add TRJ3811 to practicandogit_a.txt)
